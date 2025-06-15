@@ -12,7 +12,10 @@
     "jwt-decode": "^4.0.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-naver-login": "^0.1.4",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.1.18",
+    "react-router-dom": "^7.6.2",
     "web-vitals": "^2.1.4"
   },
   "proxy": "http://localhost:7070",
