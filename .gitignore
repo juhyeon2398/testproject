@@ -15,6 +15,9 @@ oauth.properties
 .loadpath
 .recommenders
 
+Servers/
+test-spring/target
+
 # External tool builders
 .externalToolBuilders/
 
